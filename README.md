@@ -13,7 +13,7 @@ A **CrewAI-based multi-agent system** that automates Instagram content creation 
 - **Image Prompt Agent** – Generates 2–3 image prompts  
 
 ## 🔄 Workflow
-Research → Write → Review → Image Prompts → AI Images → Final content + Images
+Research → Write → Review → Image Prompts → AI Images generation using Pollinations API endpoint → Final content + Images
 
 ## 🛠️ Tech
 CrewAI · Python · LLMs · Pollinations API endpoint
