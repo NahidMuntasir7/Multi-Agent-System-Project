@@ -1,1 +1,27 @@
-To be added
+# 🧠 Multi-Agent Instagram Content Creation (CrewAI)
+
+🚀 **Google Colab:**  
+https://colab.research.google.com/drive/1Rdkp3GFSQMnWLQ_2SB4lvsv3GdJ1QEx5
+
+## 📌 Overview
+A **CrewAI-based multi-agent system** that automates Instagram content creation by researching a topic, writing and reviewing captions, and generating image prompts for AI image generation.
+
+## 🧩 Agents
+- **Research Agent** – Gathers key information  
+- **Writer Agent** – Creates short & long captions  
+- **Reviewer Agent** – Refines and approves content  
+- **Image Prompt Agent** – Generates 2–3 image prompts  
+
+## 🔄 Workflow
+Research → Write → Review → Image Prompts → AI Images → Final content + Images
+
+## 🛠️ Tech
+CrewAI · Python · LLMs · Pollinations API endpoint
+
+## 📦 Output
+- Final Instagram caption (short & long)
+- Hashtags & CTA
+- 2–3 AI-generated images
+
+## ✅ Conclusion
+This project demonstrates how **multi-agent AI systems** can automate creative workflows. By combining specialized agents with external AI tools, the system produces **high-quality, Instagram-ready content** efficiently and consistently.
