@@ -23,5 +23,5 @@ CrewAI · Python · LLMs · Pollinations API endpoint
 - Hashtags & CTA
 - 2–3 AI-generated images
 
-## ✅ Conclusion
+## Conclusion
 This project demonstrates how **multi-agent AI systems** can automate creative workflows. By combining specialized agents with external AI tools, the system produces **high-quality, Instagram-ready content** efficiently and consistently.
